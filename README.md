@@ -4,7 +4,7 @@ Sitio web estático que funciona a la vez como **CV profesional** y como
 **registro vivo de proyectos**. Está hecho con HTML, CSS y JavaScript puros:
 sin frameworks, sin build y sin dependencias.
 
-Visita <http://localhost:8080>.
+Visita: https://andrade2516.github.io/Portafolio/
 
 ## Estructura
 
