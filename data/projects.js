@@ -47,6 +47,12 @@ window.PORTFOLIO_PROJECTS = [
       "Sin build ni dependencias: se abre directamente en el navegador",
     ],
     stack: ["HTML5", "CSS3", "JavaScript", "Accesibilidad", "Git"],
-    links: [],
+    links: [
+      {
+        label: "Ver repositorio",
+        url: "https://github.com/Andrade2516/Portafolio",
+        type: "repo",
+      },
+    ],
   },
 ];

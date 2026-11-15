@@ -40,7 +40,9 @@ dependencias y sin peticiones externas. Se abre con doble clic en `index.html`.
 - ⬜ Captura visual pendiente: la pestaña del navegador no dibuja frames en
   segundo plano, así que `screenshot` falla. El contenido y el PDF sí se
   validaron.
-- ⬜ Sin repositorio Git propio todavía.
+- ✅ Repositorio creado y subido:
+  <https://github.com/Andrade2516/Portafolio> (rama `main`).
+- ⬜ GitHub Pages pendiente de activación manual (Settings → Pages).
 
 ## 3. Archivos y responsabilidades
 
@@ -119,9 +121,9 @@ También se puede abrir `index.html` directamente; todo funciona sin servidor.
 1. **Revisar la captura visual** en una pestaña visible y corregir cualquier
    detalle estético (el layout funcional ya se validó por DOM y PDF).
 2. **Renombrar el repo del API** y actualizar su URL en `data/projects.js`.
-3. **Añadir enlace al repo de este portafolio** cuando se publique.
-4. **Publicar en GitHub Pages** y poner la URL en el README de GitHub y en
-   LinkedIn.
+3. **Activar GitHub Pages** en el repo `Portafolio` y verificar la URL pública.
+4. **Poner la URL pública** en el README de GitHub, en LinkedIn y en el
+   apartado de contacto si hace falta.
 5. **Sustituir el favicon/OG** por una imagen real si Daniel quiere.
 6. **Añadir captura del proyecto** en las tarjetas (campo opcional `image`).
 
@@ -153,6 +155,13 @@ También se puede abrir `index.html` directamente; todo funciona sin servidor.
   contrario.
 
 ## 10. Changelog
+
+### 2026-11-15 — Publicación del repositorio
+
+- Repositorio Git inicializado en la carpeta y subido a
+  `git@github.com:Andrade2516/Portafolio.git` (rama `main`).
+- Enlace al repositorio añadido a la tarjeta del portafolio.
+- Pendiente activar GitHub Pages desde Settings → Pages.
 
 ### 2026-11-15 — Ajustes de perfil
 
